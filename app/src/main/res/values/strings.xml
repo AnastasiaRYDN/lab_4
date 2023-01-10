@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Users App</string>
+    <string name="delete_format">You want to delete %s %s</string>
+    <string name="no_button">No</string>
+    <string name="yes_button">Yes</string>
+    <string name="add_new_user">Add new user!</string>
+</resources>
